@@ -1,0 +1,46 @@
+#trafficTop {
+    width: 15px;
+    height: 50px;
+    background: black;
+    margin: 0 auto;
+}
+
+#trafficBody {
+    width: 80px;
+    height: 200px;
+    background: black;
+    margin: 0 auto;
+}
+
+.red {
+    background: #8b0000;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.yellow {
+    background: #8b6b00;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-top: 7px;
+    cursor: pointer;
+}
+
+.green {
+    background: #1c6400;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 0 auto;
+    margin-top: 7px;
+    cursor: pointer;
+}
+
+.light {
+    box-shadow: #f8ffcc 0px 0px 30px 10px;
+}
